@@ -1,0 +1,27 @@
+# Keep real release inputs and generated evidence outside the playbook.
+private/
+artifacts/
+.env
+.env.*
+!.env.example
+*.p8
+*.p12
+*.pfx
+*.cer
+*.mobileprovision
+*.provisionprofile
+*.key
+*.pem
+*.ipa
+*.xcarchive/
+*.xcresult/
+DerivedData/
+*.m4a
+*.caf
+*.wav
+*.mp3
+*.mov
+*.mp4
+.DS_Store
+__pycache__/
+*.py[cod]

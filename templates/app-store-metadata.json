@@ -1,0 +1,44 @@
+{
+  "template_notice": "Fictional content. Replace in a private working copy and verify current App Store limits.",
+  "app": {
+    "bundle_id": "com.example.app",
+    "version": "1.0",
+    "build": "1",
+    "category": "Education",
+    "price": "Free",
+    "ads": false,
+    "in_app_purchases": false,
+    "countries": [
+      "Canada",
+      "United States"
+    ],
+    "automatically_add_future_countries": false,
+    "release_after_approval": "automatic",
+    "platforms": [
+      "iPhone"
+    ]
+  },
+  "localizations": {
+    "en-US": {
+      "name": "Example English Practice",
+      "subtitle": "Replay. Understand. Remember.",
+      "promotional_text": "Revisit useful English with audio replay, word notes and vocabulary review.",
+      "keywords": "english,listening,replay,vocabulary,pronunciation,study",
+      "description": "Replace with an accurate description of the final app, including device/model requirements, recording behavior, optional provider transfers and costs.",
+      "support_url": "https://example.com/example-app/support/",
+      "privacy_url": "https://example.com/example-app/privacy/",
+      "marketing_url": "https://example.com/example-app/"
+    },
+    "zh-Hans": {
+      "name": "示例英语练习",
+      "subtitle": "回听原音，理解语境，记住单词",
+      "promotional_text": "通过回听、单词笔记和词汇复习，把听过的英语变成练习材料。",
+      "keywords": "英语,听力,回听,词汇,发音,复习,学习",
+      "description": "请替换为最终应用的准确描述，包括设备和模型要求、录音行为、可选云端数据传输及费用。",
+      "support_url": "https://example.com/example-app/support/#chinese",
+      "privacy_url": "https://example.com/example-app/privacy/#chinese",
+      "marketing_url": "https://example.com/example-app/#chinese"
+    }
+  },
+  "private_review_contact": "Enter authorized real details only in App Store Connect private fields; never in this template."
+}
